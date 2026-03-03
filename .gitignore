@@ -1,0 +1,21 @@
+# virtual environment
+/venv/
+
+# Python bytecode
+__pycache__/
+*.pyc
+
+# claude logs
+/.claude/
+
+# compiled files
+*.o
+*.so
+*.dll
+homework
+
+# txt & pdf files
+*.txt
+*.pdf
+
+/.DS_Store
