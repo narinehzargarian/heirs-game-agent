@@ -19,3 +19,6 @@ homework
 *.pdf
 
 /.DS_Store
+
+# practice code
+/hw2-copy.cpp
